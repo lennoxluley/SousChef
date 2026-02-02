@@ -16,6 +16,8 @@ Das Konzept entstand durch meine eigenen Erfahrungen beim Kochen von neuen Rezep
 
 Zuerst wurde in Figma ein grober klickbarer Prototyp erstellt, um die Screens und deren Navigation zu veranschaulichen. Nach Rücksprache mit meinem Dozenten konnte ich dann das daraus gewonnene Feedback direkt in meiner anschließenden technischen Umsetzung mit Code anwenden. Der Prototyp war dabei immer nur ein grober Leitfaden für die eigene Orientierung bei der Umsetzung, nie eine exakte Anleitung. 
 
+Figma Board & Prototyp: https://www.figma.com/design/CleyoNNmtBlKrOqrtIouO3/PS-3-%7C%C2%A0SousChef?node-id=0-1&t=1I6Ofu9risP8PhLT-1
+
 ### 2.3 Funktionsweise der Applikation
 
 Zuerst befindet sich der Nutzer auf der Startseite. Hier sieht er die Rezepte als Kacheln bestehend aus einem Bild des Rezepts, dessen Namen und einem Tag, der es in eine Kathegorie einordnet. Dabei sind die Rezepte nach den Kathegorien und innerhalb dieser alphabetisch nach deren Namen sortiert. Im Header findet sich ein Lupen-Icon, mit dem sich eine Suchleiste öffnen lässt. Dort kann der Nutzer einen Tag auswählen und/oder einen Rezeptnamen eingeben, nach dem er filtern möchte. In der mobile Version ist immer nur eine Kachel in einer Zeile, in der Desktop Version sind es 3 Kacheln.
